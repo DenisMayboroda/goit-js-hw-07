@@ -103,6 +103,7 @@ background-color: red;
 #boxes {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   gap: 44px;
   margin-top: 32px;
 }
